@@ -1,6 +1,6 @@
 # letschat - MERN chat app
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Table of Contents
 
